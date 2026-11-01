@@ -1,0 +1,2 @@
+Rename this file to: secure.flag  (exactly) before the FINAL build to block screenshots and screen recording.
+Keep it as is while testing, otherwise you cannot take screenshots of errors.
